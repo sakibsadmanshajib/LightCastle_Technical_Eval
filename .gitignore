@@ -1,0 +1,7 @@
+__pycache__/
+obj/
+db.sqlite3
+*.pyproj
+*.pyproj*
+*.sln
+.vs/
